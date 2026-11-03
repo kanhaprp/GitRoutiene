@@ -1,0 +1,3 @@
+[submodule "eSIM"]
+	path = eSIM
+	url = https://github.com/kanhaprp/eSIM.git
